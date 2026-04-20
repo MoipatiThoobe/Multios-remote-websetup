@@ -1,4 +1,3 @@
-<img width="917" height="245" alt="Verifying deployment" src="https://github.com/user-attachments/assets/94ee3932-1b98-4fb0-8a22-04855401b74a" /><img width="956" height="476" alt="app-running1" src="https://github.com/user-attachments/assets/ce425e57-b8fb-4c7c-a1f8-c72070285231" />
 # 🚀 Multi-OS Remote Web Setup (Automated Deployment)
 
 ## 📌 Overview

@@ -1,3 +1,4 @@
+<img width="917" height="245" alt="Verifying deployment" src="https://github.com/user-attachments/assets/94ee3932-1b98-4fb0-8a22-04855401b74a" /><img width="956" height="476" alt="app-running1" src="https://github.com/user-attachments/assets/ce425e57-b8fb-4c7c-a1f8-c72070285231" />
 # 🚀 Multi-OS Remote Web Setup (Automated Deployment)
 
 ## 📌 Overview
@@ -98,13 +99,17 @@ cp -r * /var/www/html/
 
 ### ✅ Website Running
 
-![App Running](screenshots/app-running.png)
+<img width="956" height="476" alt="app-running1" src="https://github.com/user-attachments/assets/8a2e1780-740b-4c43-9c49-6d121b17f968" />
+
+<img width="959" height="473" alt="app-running2" src="https://github.com/user-attachments/assets/0c1c0a03-c7f0-4a91-9eed-b6b1acf51f19" />
+
 *Website successfully deployed and accessible via browser*
 
 ### ✅ Service Status
 
-![Service Status](screenshots/service-status.png)
-*Apache service running successfully*
+<img width="917" height="245" alt="Verifying deployment" src="https://github.com/user-attachments/assets/e386fbdc-b24c-45e7-989c-f884d880e757" />
+
+*Verification of a successful deployment*
 
 ---
 
